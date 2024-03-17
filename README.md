@@ -15,9 +15,8 @@ In Arbeit
 ## Auslöser
 Die Herzfrequenz des Probanden während des Leistungstests.
 ## Vorbedingungen
-Der Leistungstest wurde gestartet, korrekte Konfiguration des Überwachungssystems und Messung der Herzfrequenz.
-UC 1.01. - Proband/in anlegen
-UC 1.02. - Leistungstest anlegen
+- Der Leistungstest wurde gestartet, korrekte Konfiguration des Überwachungssystems und Messung der Herzfrequenz.
+* (UC 1.01. - Proband/in anlegen, UC 1.02. - Leistungstest anlegen)
 ## Invarianten
 Aufzeichnung der bis zum Abbruch erhobenen Daten
 ## Nachbedingung / Ergebnis
