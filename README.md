@@ -30,4 +30,4 @@ Widerstandswerte werden verletzt. Neustart und Abbruch werden angeboten.
 ## Hinweise
 Die Schwellenwerte für die Herzfrequenz werden individuell festgelegt und an die Bedürfnisse des Probanden angepasst.
 ## Änderungsgeschichte
-Version: 0.01; Name der Autoren: Anna Mauthner, Jule Trotzki; Datum: 17.03.2024
+Version: 0.01; Autor: Jule Trotzki; Datum: 17.03.2024
